@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="109" passed="109" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-21T17:34:47 FJT" name="Test Suite" finished-at="2024-10-21T17:34:48 FJT" duration-ms="1070">
+    <groups>
+    </groups>
+    <test started-at="2024-10-21T17:34:47 FJT" name="TestngdemoTests" finished-at="2024-10-21T17:34:48 FJT" duration-ms="1070">
+      <class name="com.cs341.a2.testngdemo.TestngdemoNGTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="setUp" finished-at="2024-10-21T17:34:47 FJT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSubtraction()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testSubtraction" finished-at="2024-10-21T17:34:47 FJT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtraction -->
+        <test-method signature="testAddition()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testAddition" finished-at="2024-10-21T17:34:47 FJT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method signature="testMultiplication()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testMultiplication" finished-at="2024-10-21T17:34:47 FJT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplication -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testParallelExecution()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testParallelExecution" finished-at="2024-10-21T17:34:47 FJT" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParallelExecution -->
+        <test-method signature="testParallelExecution()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testParallelExecution" finished-at="2024-10-21T17:34:47 FJT" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParallelExecution -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testDivisionByZero()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testDivisionByZero" finished-at="2024-10-21T17:34:47 FJT" duration-ms="3" status="PASS">
+          <exception class="java.lang.ArithmeticException">
+            <message>
+              <![CDATA[Division by zero]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.ArithmeticException: Division by zero
+at com.cs341.a2.testngdemo.Testngdemo.divide(Testngdemo.java:37)
+at com.cs341.a2.testngdemo.TestngdemoNGTest.testDivisionByZero(TestngdemoNGTest.java:59)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1623)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.ArithmeticException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivisionByZero -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testSampleValue()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testSampleValue" finished-at="2024-10-21T17:34:47 FJT" depends-on-methods="com.cs341.a2.testngdemo.TestngdemoNGTest.testAddition" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSampleValue -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testIncrementCounterParallel()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testIncrementCounterParallel" finished-at="2024-10-21T17:34:47 FJT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncrementCounterParallel -->
+        <test-method signature="testCounterValue()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testCounterValue" finished-at="2024-10-21T17:34:47 FJT" depends-on-methods="com.cs341.a2.testngdemo.TestngdemoNGTest.testIncrementCounterParallel" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCounterValue -->
+        <test-method signature="testParallelExecution()[pri:0, instance:com.cs341.a2.testngdemo.TestngdemoNGTest@78047b92]" started-at="2024-10-21T17:34:47 FJT" name="testParallelExecution" finished-at="2024-10-21T17:34:48 FJT" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParallelExecution -->
+      </class> <!-- com.cs341.a2.testngdemo.TestngdemoNGTest -->
+    </test> <!-- TestngdemoTests -->
+  </suite> <!-- Test Suite -->
+</testng-results>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" parallel="methods" thread-count="5">
+    <test name="TestngdemoTests">
+        <classes>
+            <class name="com.cs341.a2.testngdemo.TestngdemoNGTest"/>
+        </classes>
+    </test>
+</suite>
